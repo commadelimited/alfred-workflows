@@ -19,3 +19,6 @@ Copy the workflow folder of your choice to
 `~/Library/Application\ Support/Alfred\ 2/Alfred.alfredpreferences/workflows`
 
 Load up Alfred.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/commadelimited/alfred-workflows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
